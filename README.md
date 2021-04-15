@@ -21,4 +21,5 @@
 - sample_generator.py - sample value generator
 
 ### Plots
-![filtered data plot 1](assets/plot.png)
+![filtered data plot 1](assets/plot-1.png)
+![filtered data plot 2](assets/plot-2.png)

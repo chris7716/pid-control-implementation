@@ -14,4 +14,4 @@ y_plots = [references, outputs]
 colors = ['green', 'yellow']
 legend_labels = ['Expected', 'Actual']
 
-plot_data.plot(x_plots, y_plots, legend_labels, 'Time(s)', 'Motor Speed(rad/s)', colors, 'PID Implementation for DC Motor')
+plot_data.plot(x_plots, y_plots, legend_labels, 'Time(s)', 'Motor Speed(rad/s)', colors, 'PID Implementation for DC Motor\nK_p=0.5 K_i=0.5 K_d=0.006')
